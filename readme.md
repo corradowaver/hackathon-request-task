@@ -5,6 +5,7 @@ beCoder2019
 Инструкция по сборке:
 
 cd /GCoin/server  $node server
+
 cd /GCoin/client  $npm start
 
 Автор: Георгий Цай
