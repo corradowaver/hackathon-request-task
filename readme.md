@@ -9,4 +9,5 @@ cd /GCoin/server  $node server
 
 cd /GCoin/client  $npm start
 
+
 Автор: Георгий Цай
